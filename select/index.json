@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "君はス・テ・キ",
+  "base_artist": "Ken Hirai",
+  "createdAt": "2026-02-27T07:36:50.662679Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君はス・テ・キ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_君はス・テ・キ_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "君はス・テ・キ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_02_君はス・テ・キ_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "君はス・テ・キ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_03_君はス・テ・キ_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "君はス・テ・キ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_04_君はス・テ・キ_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "君はス・テ・キ♥",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_05_君はス・テ・キ♥_平井_堅.txt"
+    }
+  ]
+}
